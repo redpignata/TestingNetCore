@@ -1,0 +1,11 @@
+C:\Users\bcast\Documents\Visual Studio 2017\Projects\TestingNetCore\TestingNetCore\bin\Debug\netcoreapp2.0\TestingNetCore.deps.json
+C:\Users\bcast\Documents\Visual Studio 2017\Projects\TestingNetCore\TestingNetCore\bin\Debug\netcoreapp2.0\TestingNetCore.runtimeconfig.json
+C:\Users\bcast\Documents\Visual Studio 2017\Projects\TestingNetCore\TestingNetCore\bin\Debug\netcoreapp2.0\TestingNetCore.runtimeconfig.dev.json
+C:\Users\bcast\Documents\Visual Studio 2017\Projects\TestingNetCore\TestingNetCore\bin\Debug\netcoreapp2.0\TestingNetCore.dll
+C:\Users\bcast\Documents\Visual Studio 2017\Projects\TestingNetCore\TestingNetCore\bin\Debug\netcoreapp2.0\TestingNetCore.pdb
+C:\Users\bcast\Documents\Visual Studio 2017\Projects\TestingNetCore\TestingNetCore\obj\Debug\netcoreapp2.0\TestingNetCore.csprojResolveAssemblyReference.cache
+C:\Users\bcast\Documents\Visual Studio 2017\Projects\TestingNetCore\TestingNetCore\obj\Debug\netcoreapp2.0\TestingNetCore.csproj.CoreCompileInputs.cache
+C:\Users\bcast\Documents\Visual Studio 2017\Projects\TestingNetCore\TestingNetCore\obj\Debug\netcoreapp2.0\TestingNetCore.AssemblyInfoInputs.cache
+C:\Users\bcast\Documents\Visual Studio 2017\Projects\TestingNetCore\TestingNetCore\obj\Debug\netcoreapp2.0\TestingNetCore.AssemblyInfo.cs
+C:\Users\bcast\Documents\Visual Studio 2017\Projects\TestingNetCore\TestingNetCore\obj\Debug\netcoreapp2.0\TestingNetCore.dll
+C:\Users\bcast\Documents\Visual Studio 2017\Projects\TestingNetCore\TestingNetCore\obj\Debug\netcoreapp2.0\TestingNetCore.pdb
