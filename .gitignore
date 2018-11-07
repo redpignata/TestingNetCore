@@ -5,3 +5,4 @@
 /.vs/TestingNetCore/v15
 /obj/Debug/netcoreapp2.0/TestingNetCore.csprojAssemblyReference.cache
 /TestingNetCore.sln
+/.vs/config/applicationhost.config
