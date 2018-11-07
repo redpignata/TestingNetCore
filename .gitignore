@@ -3,4 +3,5 @@
 ################################################################################
 
 /.vs/TestingNetCore/v15
-/.vs/config
+/obj/Debug/netcoreapp2.0/TestingNetCore.csprojAssemblyReference.cache
+/TestingNetCore.sln
